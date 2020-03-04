@@ -1,0 +1,1719 @@
+Current day: 1
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $4260 today. 
+
+Current day: 2
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 3
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 4
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 5
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 6
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 7
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 8
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 9
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 10
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 11
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 12
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 13
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 14
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 15
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 16
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 17
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 18
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 19
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 20
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 21
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 22
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 23
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 24
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 25
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 26
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 27
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 28
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 29
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 30
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 31
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 32
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 33
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 34
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Current day: 35
+
+# of completed rentals: 0
+
+# of active rentals: 12
+
+Name: Adam, Type: Casual rented 
+SUV222, 
+Name: Camille, Type: Business rented 
+ECO111, 
+LUX111, 
+LUX222, 
+Name: Steve, Type: Business rented 
+VAN444, 
+LUX555, 
+STD111, 
+Name: Lexi, Type: Business rented 
+VAN222, 
+VAN333, 
+LUX444, 
+Name: Ben, Type: Regular rented 
+VAN111, 
+ECO333, 
+STD555, 
+Name: Jess, Type: Casual rented 
+ECO222, 
+Name: Megan, Type: Regular rented 
+STD333, 
+Name: Alex, Type: Casual rented 
+LUX333, 
+Name: Rose, Type: Business rented 
+VAN555, 
+SUV444, 
+STD444, 
+Name: Laura, Type: Regular rented 
+ECO444, 
+SUV111, 
+Name: John, Type: Casual rented 
+SUV555, 
+Name: Rob, Type: Regular rented 
+STD222, 
+SUV333, 
+
+
+0 cars left in store: 
+
+
+The store made $0 today. 
+
+Total Casual Rentals: 4
+Total Regular Rentals: 4
+Total Business Rentals: 4
+Total Money Made: 4260
